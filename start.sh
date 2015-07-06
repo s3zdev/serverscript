@@ -1,3 +1,3 @@
 #!/bin/sh
 
-screen -S //nomDuScreen ./server.sh
+screen -S //ScreenName ./server.sh
